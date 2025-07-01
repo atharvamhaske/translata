@@ -38,6 +38,9 @@ export default function Home() {
         <button className="p-2 rounded-md bg-slate-800 text-white">Translate</button>
 
       </main>
+      <footer className="row-start-3 w-full text-center text-gray-400 text-sm py-2">
+        Made with <span className="text-red-500">♥</span> by Atharva
+      </footer>
     </div>
   )
 }
